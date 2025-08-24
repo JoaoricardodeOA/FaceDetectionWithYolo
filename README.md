@@ -1,6 +1,6 @@
 # 📝 Face Detection with YOLO
 
-This project demonstrates the development of a fac detection model capable of identifying: Messi, Neymar and Cristiano Ronaldo.
+This project demonstrates the development of a face detection model capable of identifying: Messi, Neymar and Cristiano Ronaldo.
 
 The main goal of this study was to learn and apply YOLO for training Face Detection. Beyond the learning aspect, the project has practical importance, such as applications in commercial buildings, law enforcement, and many other areas.
 
